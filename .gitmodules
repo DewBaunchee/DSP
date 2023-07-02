@@ -1,0 +1,6 @@
+[submodule "SignalEncoding"]
+	path = SignalEncoding
+	url = https://github.com/DewBaunchee/SignalEncoding
+[submodule "SignalFourier"]
+	path = SignalFourier
+	url = https://github.com/DewBaunchee/SignalFourier
